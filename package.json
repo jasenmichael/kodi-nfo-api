@@ -1,0 +1,22 @@
+{
+  "name": "filedir-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "directory-structure-json": "^1.0.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "ip": "^1.1.5",
+    "node-fetch": "^2.3.0",
+    "path": "^0.12.7",
+    "xml-js": "^1.6.8"
+  }
+}
