@@ -1,0 +1,3 @@
+# Video and Music rest api from Kodi/TinyMEdiaManager generated .nfo files
+
+### more info to come yo...
